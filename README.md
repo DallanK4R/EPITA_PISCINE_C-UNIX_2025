@@ -1,6 +1,6 @@
-# Atelier C Unix – Piscine EPITA
+# Atelier C Unix – Piscine EPITA 2025
 
-Ce dépôt regroupe mes travaux réalisés durant la piscine C / Unix à l’EPITA.
+Ce dépôt regroupe mes travaux réalisés durant la piscine C / Unix de 2025 à l’EPITA.
 L’objectif de cette période était de renforcer les bases du langage C, la logique algorithmique, et la maîtrise de l’environnement Unix à travers une série d’exercices progressifs.
 
 La coding style est la suivante :
